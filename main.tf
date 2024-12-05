@@ -9,5 +9,4 @@ resource "aws_instance" "dev" {
         tags = {
             name = "dev-"
         }
-      
-    }
+}
